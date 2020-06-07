@@ -57,3 +57,5 @@
 
 # End of https://www.gitignore.io/api/keil
 /Sourceinsight
+/Project/USER/*.uvoptx
+/Project/USER/*.uvoptx
